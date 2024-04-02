@@ -52,6 +52,9 @@ html {
   /* margin-top: 5px;  */
 }
 
+.fillRemaining {
+  height: calc(100vh - 120px);
+  }
 
 @media (max-height: 719px) {
   .full {
